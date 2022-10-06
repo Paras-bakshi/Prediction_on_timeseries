@@ -1,6 +1,4 @@
 # Prediction_on_timeseries
-
-
 # Performed time series prediction on Road Dataset.
 
 # Procedure Followed:
